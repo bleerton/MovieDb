@@ -1,12 +1,12 @@
 # MovieDbApp
 
-An Android app built using Kotlin that uses [TMDB API](https://developers.themoviedb.org/3/). It has been built following Clean Architecture Principle, Repository Pattern, MVVM Architecture.
+An Android app built with Kotlin that uses [TMDB API](https://developers.themoviedb.org/3/). It has been built following Clean Architecture Principle, Repository Pattern, MVVM Architecture.
 I'm using this app to learn Jetpack Compose and basically every new technology that might pop up.
 
 
 ## Prerequisite.
 
-In order to be able to build the application you'll need Android Studio Minimum version: 2021.2.1
+Android Studio Minimum version: 2021.2.1
 
 # Tech Stack.
 This project uses some of the popular libraries, plugins and tools of the android ecosystem.
